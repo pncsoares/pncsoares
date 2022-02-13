@@ -59,7 +59,7 @@ Here are the main **technologies** that I use:
   <img width ='32px' title="Git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
   <img width ='32px' title="iTerm" src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png'>
   <img width ='32px' title="Visual Studio Code" src ='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
-  <img width ='32px' title="Visual Studio Code" src ='https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png'>
+  <img width ='32px' title="Dbeaver" src ='https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png'>
   <img width ='32px' title="Postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
   <img width ='32px' title="Trello" src ='https://cdn.iconscout.com/icon/free/png-256/trello-9-722650.png'>
   <img width ='32px' title="Notion" src ='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png'>
