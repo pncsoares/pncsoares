@@ -7,7 +7,7 @@ I am most of the time working on backend but I also love frontend development.
 - 🔭 I’m currently working on Blockchain project
 - 🌱 I’m currently learning DevOps, Blockchain, Machine Learning and Artificial Intelligence
 - 💯 Advocate of readable and maintainable code
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can transform caffeine into code
 
 ## My Toolbox 🧰
 
@@ -49,6 +49,8 @@ Here are the main **technologies** that I use:
   <img width ='32px' title="REST API" src ='https://iconape.com/wp-content/png_logo_vector/rest.png'>
   <img width ='32px' title="Swagger" src ='https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWC-logo-clr.png'>
   <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
+  <img width ='32px' title="Prometheus" src ='https://avatars.githubusercontent.com/u/3380462?s=200&v=4'>
+  <img width ='32px' title="Grafana" src ='https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png'>
 </details>
 
 <details>
