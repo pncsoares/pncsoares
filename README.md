@@ -61,6 +61,7 @@ Here are the main **technologies** that I use:
   <img width ='32px' title="Visual Studio Code" src ='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
   <img width ='32px' title="Dbeaver" src ='https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png'>
   <img width ='32px' title="Postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
+  <img width ='32px' title="Insomnia" src ='https://www.pngitem.com/pimgs/m/463-4634376_insomnia-rest-client-icon-hd-png-download.png'>
   <img width ='32px' title="Trello" src ='https://cdn.iconscout.com/icon/free/png-256/trello-9-722650.png'>
   <img width ='32px' title="Notion" src ='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png'>
 </details>
