@@ -54,7 +54,7 @@ Here are the main **technologies** that I use:
 </details>
 
 <details>
-  <summary><b>Softwares</b></summary>
+  <summary><b>Software</b></summary>
   <br>
   <img width ='32px' title="Git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
   <img width ='32px' title="iTerm" src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png'>
