@@ -1,6 +1,6 @@
 ## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi there
 
-My name is **Pedro**. I am a Full Stack Developer from Portugal.
+My name is **Pedro**. I am a Full Stack Developer from Portugal 🇵🇹
 
 I am most of the time working on backend but I also love frontend development.
 
