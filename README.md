@@ -1,11 +1,6 @@
-## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi, I'm Pedro Soares
+## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> About me
 
-[<img align="left" alt="pncsoares | LinkedIn" width="24px" src="./img/linkedin.png" />][linkedin]
-[<img align="left" alt="pncsoares | Twitter" width="24px" src="./img/twitter.png" />][twitter]
-[<img align="left" alt="pncsoares | Gmail" width="24px" src="./img/email.png" />][gmail]
-<br>
-
-### I am a Full Stack Developer from 🇵🇹
+#### My name is Pedro Soares and I am a Full Stack Developer from 🇵🇹
 
 I am most of the time working on backend but I also love frontend and mobile development!
 
@@ -16,7 +11,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
 
 ## 🧰 My Toolbox
 
-Here are the main **technologies** that I use:
+#### Here are the main **technologies** that I use:
 
 <details open>
   <summary><b>Frontend</b></summary>
@@ -28,7 +23,6 @@ Here are the main **technologies** that I use:
     <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
     <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
     <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-    <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
   </p>
 </details>
 
@@ -80,6 +74,7 @@ Here are the main **technologies** that I use:
   <img width ='32px' title="R" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg'>
   <img width ='32px' title="Ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
+  <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
   <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
 </details>
 
