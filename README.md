@@ -1,10 +1,9 @@
 ## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi, I'm Pedro Soares
 
-<p>
-  <img width ='28px' title="LinkedIn" src ='./img/linkedin.png' alt="pncsoares | LinkedIn">
-  <img width ='28px' title="Twitter" src ='./img/twitter.png' alt="pncsoares | Twitter">
-  <img width ='28px' title="Gmail" src ='./img/email.png' alt="pncsoares | Gmail">
-</p>
+[<img align="left" alt="pncsoares | LinkedIn" width="24px" src="./img/linkedin.png" />][linkedin]
+[<img align="left" alt="pncsoares | Twitter" width="24px" src="./img/twitter.png" />][twitter]
+[<img align="left" alt="pncsoares | Gmail" width="24px" src="./img/email.png" />][gmail]
+<br>
 
 ### I am a Full Stack Developer from 🇵🇹
 
@@ -83,3 +82,7 @@ Here are the main **technologies** that I use:
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
   <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
 </details>
+
+[linkedin]: https://www.linkedin.com/in/pncsoares/
+[twitter]: https://www.twitter.com/pncsoares/
+[gmail]: mailto:pncsoares@gmail.com
