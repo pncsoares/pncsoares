@@ -1,8 +1,14 @@
-## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi there
+## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi, I'm Pedro Soares
 
-My name is **Pedro**. I am a Full Stack Developer from Portugal 🇵🇹
+[<img align="left" alt="pncsoares | LinkedIn" width="22px" src="./linkedin.png" />][linkedin]
+[<img align="left" alt="pncsoares | Twitter" width="22px" src="./twitter.png" />][twitter]
+[<img align="left" alt="pncsoares | Gmail" width="22px" src="./gmail.png" />][gmail]
 
-I am most of the time working on backend but I also love frontend development.
+![](https://www.codewars.com/users/pncsoares/badges/micro)
+
+### I am a Full Stack Developer from 🇵🇹
+
+I am most of the time working on backend but I also love frontend and mobile development!
 
 - 🔭 I’m currently working on Blockchain project
 - 🌱 I’m currently learning DevOps and Blockchain
@@ -77,13 +83,3 @@ Here are the main **technologies** that I use:
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
   <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
 </details>
-
-## 📫 How to reach me
-
-<a title="connect on LinkedIn" href="https://www.linkedin.com/in/pncsoares/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-3178C6.svg?logo=linkedin"/>
-</a>
-
-<a title="send me an email" href="mailto:pncsoares@gmail.com">
-  <img src="https://img.shields.io/badge/Send-Email-EA4335.svg?logo=gmail"/>
-</a>
