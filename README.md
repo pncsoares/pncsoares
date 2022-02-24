@@ -1,10 +1,8 @@
 ## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi, I'm Pedro Soares
 
-[<img align="left" alt="pncsoares | LinkedIn" width="22px" src="./img/linkedin.png" />][linkedin]
-[<img align="left" alt="pncsoares | Twitter" width="22px" src="./img/twitter.png" />][twitter]
-[<img align="left" alt="pncsoares | Gmail" width="22px" src="./img/email.png" />][gmail]
-
-![](https://www.codewars.com/users/pncsoares/badges/micro)
+<img width ='28px' title="LinkedIn" src ='./img/linkedin.png' alt="pncsoares | LinkedIn">
+<img width ='28px' title="Twitter" src ='./img/twitter.png' alt="pncsoares | Twitter">
+<img width ='28px' title="Gmail" src ='./img/email.png' alt="pncsoares | Gmail">
 
 ### I am a Full Stack Developer from 🇵🇹
 
