@@ -1,9 +1,10 @@
 ## <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"> Hi, I'm Pedro Soares
 
-<img width ='28px' title="LinkedIn" src ='./img/linkedin.png' alt="pncsoares | LinkedIn">
-<img width ='28px' title="Twitter" src ='./img/twitter.png' alt="pncsoares | Twitter">
-<img width ='28px' title="Gmail" src ='./img/email.png' alt="pncsoares | Gmail">
-
+<p>
+  <img width ='28px' title="LinkedIn" src ='./img/linkedin.png' alt="pncsoares | LinkedIn">
+  <img width ='28px' title="Twitter" src ='./img/twitter.png' alt="pncsoares | Twitter">
+  <img width ='28px' title="Gmail" src ='./img/email.png' alt="pncsoares | Gmail">
+</p>
 ### I am a Full Stack Developer from 🇵🇹
 
 I am most of the time working on backend but I also love frontend and mobile development!
