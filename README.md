@@ -6,7 +6,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
 
 - 🔭 I’m currently working on Blockchain project
 - 🌱 I’m currently learning DevOps and Blockchain
-- 💯 Advocate of readable and maintainable code
+- 💯 Advocate of readable, maintainable and documented code
 - ⚡ Fun fact: I am able to transform caffeine into code
 
 ## 🧰 My Toolbox
