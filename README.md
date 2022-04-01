@@ -7,7 +7,9 @@ I am most of the time working on backend but I also love frontend and mobile dev
 - 🔭 I’m currently working on Blockchain project
 - 🌱 I’m currently learning DevOps and Blockchain
 - 💯 Advocate of readable, maintainable and documented code
-- ⚡ Fun fact: I am able to transform caffeine into code
+- ⚡ Fun facts:
+  -  I am able to transform caffeine into code
+  -  I created a robot to publish images on instagram using artificial inteligence but 2 days later, instagram blocked my account 
 
 ## 🧰 My Toolbox
 
