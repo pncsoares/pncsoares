@@ -11,6 +11,11 @@ I am most of the time working on backend but I also love frontend and mobile dev
   -  I am able to transform caffeine into code
   -  I created a robot to publish images on instagram using artificial inteligence but 2 days later, instagram blocked my account 
 
+## ℹ️ My Statistics
+
+| <a href="https://github.com/pncsoares/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pncsoares&show_icons=true&include_all_commits=true&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/pncsoares/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pncsoares&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ## 🧰 My Toolbox
 
 #### Here are the main **technologies** that I use:
