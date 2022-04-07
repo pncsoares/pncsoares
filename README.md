@@ -13,7 +13,9 @@ I am most of the time working on backend but I also love frontend and mobile dev
 
 ## ℹ️ My Statistics
 
-[![Pedro Soares's Github stats](https://github-readme-stats.vercel.app/api?username=pncsoares&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/pncsoares/github-readme-stats)[![Pedro Soares's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pncsoares&layout=compact&hide_border=true)](https://github.com/pncsoares/github-readme-stats)
+[![Pedro Soares's Github stats](https://github-readme-stats.vercel.app/api?username=pncsoares&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/pncsoares/github-readme-stats)
+
+[![Pedro Soares's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pncsoares&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/pncsoares/github-readme-stats)
 
 ## 🧰 My Toolbox
 
