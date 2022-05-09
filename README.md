@@ -50,6 +50,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Selenium" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'>
   <img width ='32px' title="Python" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  
   <img width ='32px' title="node.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+  <img width ='32px' title="Prisma" src ='https://www.svgrepo.com/show/374002/prisma.svg'>
   <img width ='32px' title="Swagger" src ='https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png'>
   <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
 </details>
