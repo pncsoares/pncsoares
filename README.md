@@ -80,6 +80,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Bash" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg'>
   <img width ='32px' title="R" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg'>
   <img width ='32px' title="Ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
+  <img width ='32px' title="Rust" src ='https://www.rust-lang.org/logos/rust-logo-256x256.png'>
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
   <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
   <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
