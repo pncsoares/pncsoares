@@ -60,8 +60,8 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <br>
   <img width ='32px' title="iTerm" src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png'>
   <img width ='32px' title="Visual Studio Code" src ='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
-  <img width ='32px' title="Rider" src ='https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg'>
   <img width ='32px' title="Visual Studio" src ='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg'>
+  <img width ='32px' title="Rider" src ='https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg'>
   <img width ='32px' title="Dbeaver" src ='https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png'>
   <img width ='32px' title="Postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
   <img width ='32px' title="Insomnia" src ='https://www.pngitem.com/pimgs/m/463-4634376_insomnia-rest-client-icon-hd-png-download.png'>
