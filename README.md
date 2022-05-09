@@ -24,7 +24,6 @@ I am most of the time working on backend but I also love frontend and mobile dev
 <details open>
   <summary><b>Frontend</b></summary>
   <br>
-  <p>
     <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
     <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>  
     <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
@@ -32,7 +31,6 @@ I am most of the time working on backend but I also love frontend and mobile dev
     <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
     <img width ='32px' title="Tailwind CSS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
     <img width ='32px' title="Svelte" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'>
-  </p>
 </details>
 
 <details open>
@@ -56,6 +54,14 @@ I am most of the time working on backend but I also love frontend and mobile dev
 </details>
 
 <details>
+  <summary><b>Mobile</b></summary>
+  <br>
+    <img width ='32px' title="React Native" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+    <img width ='32px' title="Swift" src ='https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg'>
+    <img width ='32px' title="Flutter" src ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'>
+</details>
+
+<details>
   <summary><b>Software</b></summary>
   <br>
   <img width ='32px' title="iTerm" src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png'>
@@ -75,7 +81,6 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="C" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg'>
   <img width ='32px' title="C++" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg'>
   <img width ='32px' title="Java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-  <img width ='32px' title="Swift" src ='https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg'>
   <img width ='32px' title="Prometheus" src ='https://avatars.githubusercontent.com/u/3380462?s=200&v=4'>
   <img width ='32px' title="Grafana" src ='https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png'>
   <img width ='32px' title="graphQL" src ='https://iconape.com/wp-content/png_logo_vector/graphql.png'>
