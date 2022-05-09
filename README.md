@@ -26,11 +26,11 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <br>
   <p>
     <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-    <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
     <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>  
     <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
     <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>    
     <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+    <img width ='32px' title="Tailwind CSS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
   </p>
 </details>
 
@@ -81,6 +81,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="R" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg'>
   <img width ='32px' title="Ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
   <img width ='32px' title="Rust" src ='https://www.rust-lang.org/logos/rust-logo-256x256.png'>
+  <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
   <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
   <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
