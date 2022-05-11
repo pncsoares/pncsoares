@@ -25,30 +25,19 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <summary><b>Frontend</b></summary>
   <br>
     <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-    <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>  
-    <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>  
-    <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>    
-    <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-    <img width ='32px' title="Tailwind CSS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
     <img width ='32px' title="Svelte" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'>
+    <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
+    <img width ='32px' title="Tailwind CSS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
 </details>
 
 <details open>
   <summary><b>Backend</b></summary>
   <br>
-  <img width ='32px' title="Dotnet" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'>
+  <img width ='32px' title="Dotnet Core" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'>
   <img width ='32px' title="C#" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg'>
   <img width ='32px' title="SQL Server" src ='https://img.icons8.com/color/32/000000/microsoft-sql-server.png'>
   <img width ='32px' title="PostgreSQL" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
-  <img width ='32px' title="mongoDB" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
-  <img width ='32px' title="AWS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
-  <img width ='32px' title="Docker" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
-  <img width ='32px' title="Kubernetes" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'>
-  <img width ='32px' title="Terraform" src ='https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg'>
-  <img width ='32px' title="Selenium" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'>
-  <img width ='32px' title="Python" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  
   <img width ='32px' title="node.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-  <img width ='32px' title="Prisma" src ='https://www.svgrepo.com/show/374002/prisma.svg'>
   <img width ='32px' title="Swagger" src ='https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png'>
   <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
 </details>
@@ -57,8 +46,6 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <summary><b>Mobile</b></summary>
   <br>
     <img width ='32px' title="React Native" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-    <img width ='32px' title="Swift" src ='https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg'>
-    <img width ='32px' title="Flutter" src ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'>
 </details>
 
 <details>
@@ -78,6 +65,9 @@ I am most of the time working on backend but I also love frontend and mobile dev
 <details>
   <summary><b>Also worked with</b></summary>
   <br>
+  <img width ='32px' title="HTML5" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+  <img width ='32px' title="CSS3" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+  <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
   <img width ='32px' title="C" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg'>
   <img width ='32px' title="C++" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg'>
   <img width ='32px' title="Java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
@@ -90,10 +80,20 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="R" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg'>
   <img width ='32px' title="Ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
   <img width ='32px' title="Rust" src ='https://www.rust-lang.org/logos/rust-logo-256x256.png'>
+  <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
   <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
   <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-  <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
+  <img width ='32px' title="mongoDB" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
+  <img width ='32px' title="Prisma" src ='https://www.svgrepo.com/show/374002/prisma.svg'>
+  <img width ='32px' title="AWS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
+  <img width ='32px' title="Docker" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
+  <img width ='32px' title="Kubernetes" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'>
+  <img width ='32px' title="Terraform" src ='https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg'>
+  <img width ='32px' title="Selenium" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'>
+  <img width ='32px' title="Python" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+  <img width ='32px' title="Swift" src ='https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg'>
+    <img width ='32px' title="Flutter" src ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/pncsoares/
