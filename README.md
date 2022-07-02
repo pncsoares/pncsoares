@@ -4,12 +4,11 @@
 
 I am most of the time working on backend but I also love frontend and mobile development!
 
-- 🔭 I’m currently working on Blockchain project
-- 🌱 I’m currently learning DevOps and Blockchain
+- 🌱 I’m currently learning DevOps and Infrastructure as Code
 - 💯 Advocate of readable, maintainable and documented code
 - ⚡ Fun facts:
-  -  I am able to transform caffeine into code
-  -  I created a robot to publish images on instagram using artificial inteligence but 2 days later, instagram blocked my account 
+  - I still watch Harry Potter and Home Alone every year at Christmas
+  - When I was younger, I memorized all of Fernando Rocha's jokes
 
 ## 🧰 My Toolbox
 
