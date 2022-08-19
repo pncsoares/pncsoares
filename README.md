@@ -43,7 +43,9 @@ I am most of the time working on backend but I also love frontend and mobile dev
 <details>
   <summary><b>Mobile</b></summary>
   <br>
+    <img width ='32px' title="Swift" src ='https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg'>
     <img width ='32px' title="React Native" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+    <img width ='32px' title="Flutter" src ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'>
 </details>
 
 <details>
@@ -86,8 +88,6 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Terraform" src ='https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg'>
   <img width ='32px' title="Selenium" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'>
   <img width ='32px' title="Python" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-  <img width ='32px' title="Swift" src ='https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg'>
-    <img width ='32px' title="Flutter" src ='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true'>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/pncsoares/
