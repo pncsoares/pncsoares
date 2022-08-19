@@ -22,6 +22,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Javascript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
   <img width ='32px' title="Typescript" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
   <img width ='32px' title="React" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+  <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
   <img width ='32px' title="Svelte" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'>
   <img width ='32px' title="Tailwind CSS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
 </details>
@@ -33,6 +34,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="C#" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg'>
   <img width ='32px' title="SQL Server" src ='https://img.icons8.com/color/32/000000/microsoft-sql-server.png'>
   <img width ='32px' title="PostgreSQL" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+  <img width ='32px' title="Firebase" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
   <img width ='32px' title="node.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
   <img width ='32px' title="Swagger" src ='https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png'>
   <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
@@ -68,13 +70,11 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Grafana" src ='https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png'>
   <img width ='32px' title="graphQL" src ='https://iconape.com/wp-content/png_logo_vector/graphql.png'>
   <img width ='32px' title="socket.io" src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png'>
-  <img width ='32px' title="Firebase" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
   <img width ='32px' title="Bash" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg'>
   <img width ='32px' title="R" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg'>
   <img width ='32px' title="Ruby" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'>
   <img width ='32px' title="Rust" src ='https://www.rust-lang.org/logos/rust-logo-256x256.png'>
   <img width ='32px' title="jQuery" src ='https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png'>
-  <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
   <img width ='32px' title="Styled components" src ='https://avatars.githubusercontent.com/u/20658825?s=200&v=4'>
   <img width ='32px' title="SASS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
   <img width ='32px' title="mongoDB" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
