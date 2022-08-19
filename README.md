@@ -49,6 +49,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
 <details>
   <summary><b>Software</b></summary>
   <br>
+  <img width ='32px' title="Warp" src ='https://cdn.hackernoon.com/images/k8BF5t8U11R5my0bz3n6LRmj7sN2-2x93fk2.png'>
   <img width ='32px' title="iTerm" src ='https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png'>
   <img width ='32px' title="Visual Studio Code" src ='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg'>
   <img width ='32px' title="Visual Studio" src ='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg'>
