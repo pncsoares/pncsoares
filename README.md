@@ -58,7 +58,7 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Rider" src ='https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg'>
   <img width ='32px' title="Dbeaver" src ='https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png'>
   <img width ='32px' title="Postman" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
-  <img width ='32px' title="Insomnia" src ='https://www.pngitem.com/pimgs/m/463-4634376_insomnia-rest-client-icon-hd-png-download.png'>
+  <img width ='32px' title="Insomnia" src ='https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg'>
   <img width ='32px' title="Notion" src ='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png'>
   <img width ='32px' title="Trello" src ='https://cdn.iconscout.com/icon/free/png-256/trello-9-722650.png'>
 </details>
