@@ -25,6 +25,8 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="Angular" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
   <img width ='32px' title="Svelte" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'>
   <img width ='32px' title="Tailwind CSS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
+  <img width ='32px' title="Bootstrap" src ='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
+
 </details>
 
 <details open>
