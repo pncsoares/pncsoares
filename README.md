@@ -36,9 +36,13 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="C#" src ='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg'>
   <img width ='32px' title="SQL Server" src ='https://img.icons8.com/color/32/000000/microsoft-sql-server.png'>
   <img width ='32px' title="PostgreSQL" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+  <img width ='32px' title="Docker" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
+  <img width ='32px' title="Elastic Search" src ='https://cdn.worldvectorlogo.com/logos/elasticsearch.svg'>
+  <img width ='32px' title="Kibana" src ='https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg'>
   <img width ='32px' title="Firebase" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
   <img width ='32px' title="node.js" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
   <img width ='32px' title="Swagger" src ='https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png'>
+  <img width ='32px' title="Redis" src ='https://www.svgrepo.com/show/303460/redis-logo.svg'>
   <img width ='32px' title="Jest" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
 </details>
 
@@ -85,7 +89,6 @@ I am most of the time working on backend but I also love frontend and mobile dev
   <img width ='32px' title="mongoDB" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
   <img width ='32px' title="Prisma" src ='https://www.svgrepo.com/show/374002/prisma.svg'>
   <img width ='32px' title="AWS" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
-  <img width ='32px' title="Docker" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
   <img width ='32px' title="Kubernetes" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'>
   <img width ='32px' title="Terraform" src ='https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg'>
   <img width ='32px' title="Selenium" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'>
