@@ -2,13 +2,9 @@
 
 #### My name is Pedro Soares and I am a Full Stack Developer from Portugal!
 
-I am most of the time working on backend but I also love frontend and mobile development!
+I am most of the time working on backend and frontend but I also love mobile development!
 
-- 🌱 I’m currently learning DevOps and Infrastructure as Code
 - 💯 Advocate of readable, maintainable and documented code
-- ⚡ Fun facts:
-  - I still watch Harry Potter and Home Alone every year at Christmas
-  - When I was younger, I memorized all of Fernando Rocha's jokes
 
 ## 🧰 My Toolbox
 
