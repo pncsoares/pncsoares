@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Soares!
 
-Full Stack Developer from Portugal focused on backend, frontend, and mobile development.</br>
+Full Stack Developer from Portugal focused on Backend, Frontend, and DevOps.</br>
 Passionate about readable, maintainable, and well-documented code.
 
 ## 🧰 Tech Stack
