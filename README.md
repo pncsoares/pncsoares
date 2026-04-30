@@ -1,31 +1,46 @@
-# 👋 Hi, I'm Pedro Soares!
+# Hi, I'm Pedro Soares! 👋
 
-Software Architect Engineer from Portugal focused on Backend, Frontend and DevOps.</br>
+Software Architect Engineer from Portugal with a focus on Backend, Frontend, and DevOps.
 Passionate about readable, maintainable, and well-documented code.
 
-## 🧰 Tech Stack
+Currently building OCR-powered invoice processing using .NET, Vue.js, Azure, and MongoDB.
+
+## Currently working on
+
+- OCR invoice extraction platform with Azure Document Intelligence
+- Labeling workflow tools for ML model training
+- CI/CD pipelines with GitHub Actions and Azure Kubernetes Service
+
+## Tech Stack
 
 ### Frontend
+
 <div>
   <img width="48px" title="TypeScript" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
+  <img width="48px" title="Vue.js" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg">
   <img width="48px" title="React" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
   <img width="48px" title="Angular" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg">
   <img width="48px" title="Tailwind CSS" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
+  <img width="48px" title="Cypress" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg">
 </div>
 
 ### Backend
+
 <div>
-  <img width="48px" title="Java" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-  <img width="48px" title=".NET Core" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg">
+  <img width="48px" title=".NET" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg">
   <img width="48px" title="C#" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  <img width="48px" title="SQL Server" src="https://img.icons8.com/color/32/000000/microsoft-sql-server.png">
-  <img width="48px" title="PostgreSQL" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
-  <img width="48px" title="mongoDB" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
+  <img width="48px" title="Java" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
   <img width="48px" title="Node.js" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+  <img width="48px" title="Python" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+  <img width="48px" title="MongoDB" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
+  <img width="48px" title="PostgreSQL" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
+  <img width="48px" title="SQL Server" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
   <img width="48px" title="Redis" src="https://www.svgrepo.com/show/303460/redis-logo.svg">
+  <img width="48px" title="RabbitMQ" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
 </div>
 
 ### Mobile
+
 <div>
   <img width="48px" title="Swift" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/swift/swift.svg">
   <img width="48px" title="React Native" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
@@ -33,25 +48,17 @@ Passionate about readable, maintainable, and well-documented code.
 </div>
 
 ### Cloud & DevOps
+
 <div>
+  <img width="48px" title="Azure" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg">
   <img width="48px" title="AWS" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg">
   <img width="48px" title="Docker" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg">
   <img width="48px" title="Kubernetes" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg">
-  <img width="48px" title="Terraform" src ="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img width="48px" title="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
+  <img width="48px" title="Terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   <img width="48px" title="Prometheus" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4">
-  <img width="48px" title="Grafana" src="https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png">
+  <img width="48px" title="Grafana" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
   <img width="48px" title="Elasticsearch" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg">
   <img width="48px" title="Kibana" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg">
   <img width="48px" title="Firebase" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg">
-</div>
-
-### Technologies I've Used
-<div>
-  <img width="48px" title="HTML5" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-  <img width="48px" title="CSS3" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-  <img width="48px" title="JavaScript" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-  <img width="48px" title="Styled components" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-  <img width="48px" title="graphQL" src="https://iconape.com/wp-content/png_logo_vector/graphql.png">
-  <img width="48px" title="Prisma" src="https://www.svgrepo.com/show/374002/prisma.svg">
-  <img width="48px" title="Python" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 </div>
