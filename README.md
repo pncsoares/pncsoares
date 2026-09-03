@@ -3,14 +3,6 @@
 Software Architect Engineer from Portugal with a focus on Backend, Frontend, and DevOps.
 Passionate about readable, maintainable, and well-documented code.
 
-Currently building OCR-powered invoice processing using .NET, Vue.js, Azure, and MongoDB.
-
-## Currently working on
-
-- OCR invoice extraction platform with Azure Document Intelligence
-- Labeling workflow tools for ML model training
-- CI/CD pipelines with GitHub Actions and Azure Kubernetes Service
-
 ## Tech Stack
 
 ### Frontend
