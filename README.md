@@ -10,7 +10,7 @@ I have experience turning complex business requirements into distributed systems
 
 ## Stack
 
-- **Core:** TypeScript · Node.js · React · .NET Core
+- **Core:** TypeScript · Node.js · React · .NET Core · Vue.js
 - **Data & messaging:** PostgreSQL · MongoDB · RabbitMQ · Redis
 - **Cloud & ops:** AWS · Azure · GCP · Docker · Kubernetes · Terraform · GitHub Actions · Grafana
 - **Quality:** Playwright · Cypress · Vitest
