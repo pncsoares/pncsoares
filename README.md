@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Soares 👋
 
-**Senior Full Stack Engineer · Software Architect** from Portugal.
+**Software Architect & Senior Full Stack Engineer** from Portugal.
 
 I have experience turning complex business requirements into distributed systems that survive production.
 
