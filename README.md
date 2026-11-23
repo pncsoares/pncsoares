@@ -6,7 +6,7 @@ I have experience turning complex business requirements into distributed systems
 
 - 🔭 **Currently:** full ownership across a 20+ microservice platform — architecture, event-driven flows, CI/CD and production troubleshooting (100+ critical incidents resolved).
 - 🏗️ **Track record:** led 10+ greenfield projects from design to production, all still running today.
-- 🛠️ **Building in public:** [seathold](https://github.com/pncsoares/seathold) — an event-driven ticket reservation platform showcasing DDD, transactional outbox, sagas, circuit breakers and OpenTelemetry, with every architecture decision documented in ADRs.
+- 💰 **Built Escada da Poupança:** A platform to help adults and kids with money: https://escadadapoupanca.pt
 
 ## Stack
 
